@@ -1,0 +1,19 @@
+@media only screen and (max-width: 768px) {
+    .d-flex {
+        display: block;
+    }
+
+    .generalplan{
+      
+        bottom: 11px;
+      
+      }
+      .premplan{
+       
+       bottom: 11px;
+          
+}
+
+
+
+  }
